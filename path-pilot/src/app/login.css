@@ -3,7 +3,7 @@
     align-items: start;
     margin-top: 30px;
     justify-content: center;
-    width: 100%; /*takes 100% of the width of the parent element*/
+    width: 100%;
 }
 
 .login {

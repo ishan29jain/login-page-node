@@ -9,10 +9,10 @@ export default function Home() {
     <div className="w-screen h-screen bg-emerald-100 flex flex-col items-center">
       <div className = "logo">
         <Image
-        src="/images/path-pilot.png" // starts from public/
+        src="/images/path-pilot.png"
         alt="PathPilot Logo"
-        width={300} // set your desired width
-        height={100} // set your desired height
+        width={300} 
+        height={100} 
       />
       </div>
       <div className="login">
